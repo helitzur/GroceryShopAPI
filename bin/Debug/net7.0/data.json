@@ -1,0 +1,267 @@
+[
+  {
+    "Date": "2021-06-01",
+    "Income": 100,
+    "Outcome": 50
+  },
+  {
+    "Date": "2021-06-01",
+    "Income": 200,
+    "Outcome": 100
+  },
+  {
+    "Date": "2021-06-01",
+    "Income": 350,
+    "Outcome": 60
+  },
+  {
+    "Date": "2021-06-01",
+    "Income": 70,
+    "Outcome": 20
+  },
+  {
+    "Date": "2021-06-02",
+    "Income": 120,
+    "Outcome": 80
+  },
+  {
+    "Date": "2022-10-31",
+    "Income": 180,
+    "Outcome": 34
+  },
+  {
+    "Date": "2022-05-03",
+    "Income": 172,
+    "Outcome": 50
+  },
+  {
+    "Date": "2022-04-06",
+    "Income": 156,
+    "Outcome": 89
+  },
+  {
+    "Date": "2023-05-19",
+    "Income": 59,
+    "Outcome": 83
+  },
+  {
+    "Date": "2022-03-25",
+    "Income": 197,
+    "Outcome": 65
+  },
+  {
+    "Date": "2022-06-29",
+    "Income": 165,
+    "Outcome": 45
+  },
+  {
+    "Date": "2021-06-09",
+    "Income": 197,
+    "Outcome": 99
+  },
+  {
+    "Date": "2022-04-26",
+    "Income": 50,
+    "Outcome": 30
+  },
+  {
+    "Date": "2020-12-07",
+    "Income": 81,
+    "Outcome": 91
+  },
+  {
+    "Date": "2022-02-07",
+    "Income": 59,
+    "Outcome": 90
+  },
+  {
+    "Date": "2021-12-18",
+    "Income": 160,
+    "Outcome": 30
+  },
+  {
+    "Date": "2023-01-21",
+    "Income": 155,
+    "Outcome": 51
+  },
+  {
+    "Date": "2021-04-27",
+    "Income": 144,
+    "Outcome": 44
+  },
+  {
+    "Date": "2021-12-14",
+    "Income": 165,
+    "Outcome": 54
+  },
+  {
+    "Date": "2021-11-27",
+    "Income": 185,
+    "Outcome": 61
+  },
+  {
+    "Date": "2021-04-27",
+    "Income": 104,
+    "Outcome": 42
+  },
+  {
+    "Date": "2021-08-25",
+    "Income": 109,
+    "Outcome": 60
+  },
+  {
+    "Date": "2022-07-19",
+    "Income": 121,
+    "Outcome": 41
+  },
+  {
+    "Date": "2020-12-18",
+    "Income": 66,
+    "Outcome": 71
+  },
+  {
+    "Date": "2022-11-14",
+    "Income": 59,
+    "Outcome": 50
+  },
+  {
+    "Date": "2022-01-11",
+    "Income": 185,
+    "Outcome": 53
+  },
+  {
+    "Date": "2021-07-18",
+    "Income": 133,
+    "Outcome": 90
+  },
+  {
+    "Date": "2023-04-06",
+    "Income": 75,
+    "Outcome": 71
+  },
+  {
+    "Date": "2021-06-17",
+    "Income": 116,
+    "Outcome": 43
+  },
+  {
+    "Date": "2022-09-10",
+    "Income": 184,
+    "Outcome": 83
+  },
+  {
+    "Date": "2022-04-08",
+    "Income": 166,
+    "Outcome": 82
+  },
+  {
+    "Date": "2022-07-06",
+    "Income": 107,
+    "Outcome": 55
+  },
+  {
+    "Date": "2021-04-19",
+    "Income": 86,
+    "Outcome": 89
+  },
+  {
+    "Date": "2021-04-06",
+    "Income": 64,
+    "Outcome": 58
+  },
+  {
+    "Date": "2022-06-07",
+    "Income": 115,
+    "Outcome": 81
+  },
+  {
+    "Date": "2022-07-11",
+    "Income": 130,
+    "Outcome": 57
+  },
+  {
+    "Date": "2021-03-18",
+    "Income": 160,
+    "Outcome": 36
+  },
+  {
+    "Date": "2020-09-10",
+    "Income": 162,
+    "Outcome": 70
+  },
+  {
+    "Date": "2022-10-26",
+    "Income": 85,
+    "Outcome": 47
+  },
+  {
+    "Date": "2023-04-07",
+    "Income": 91,
+    "Outcome": 74
+  },
+  {
+    "Date": "2020-11-05",
+    "Income": 79,
+    "Outcome": 37
+  },
+  {
+    "Date": "2020-07-31",
+    "Income": 156,
+    "Outcome": 42
+  },
+  {
+    "Date": "2021-06-08",
+    "Income": 110,
+    "Outcome": 45
+  },
+  {
+    "Date": "2023-02-24",
+    "Income": 57,
+    "Outcome": 54
+  },
+  {
+    "Date": "2020-09-04",
+    "Income": 112,
+    "Outcome": 91
+  },
+  {
+    "Date": "2021-12-16",
+    "Income": 96,
+    "Outcome": 43
+  },
+  {
+    "Date": "2022-05-01",
+    "Income": 193,
+    "Outcome": 93
+  },
+  {
+    "Date": "2020-08-06",
+    "Income": 169,
+    "Outcome": 85
+  },
+  {
+    "Date": "2021-12-07",
+    "Income": 169,
+    "Outcome": 36
+  },
+  {
+    "Date": "2022-03-17",
+    "Income": 174,
+    "Outcome": 95
+  },
+  {
+    "Date": "2020-08-11",
+    "Income": 57,
+    "Outcome": 93
+  },
+  {
+    "Date": "2022-12-24",
+    "Income": 101,
+    "Outcome": 51
+  },
+  {
+    "Date": "2022-06-23",
+    "Income": 53,
+    "Outcome": 56
+  }
+]
